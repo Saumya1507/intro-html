@@ -1,7 +1,6 @@
 ## Your GitHub Learning Lab Repository for Intro to HTML
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
-
+Welcome to this repository as a resultant of awesome learning  course provided at  GitHub Learning Lab .Had fun time in hosting github static pages!!
 Oh! I haven't introduced myself...
 https://saumya1507.github.io/intro-html/
 
